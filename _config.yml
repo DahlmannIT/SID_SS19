@@ -7,9 +7,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: HSMA # add your name
+author: Hochschule Mannheim # add your name
 author-img: hsma.png # add your photo
-about-author: Hochschule Mannheim. # add description
+about-author: Content Upload Plattform für das Modul Sichere Internetdienste im Sommersemester 2019. # add description
 social-twitter: hsmanews # add your Twitter handle
 social-facebook: HochschuleMannheim # add your Facebook handle
 social-github: informatik-mannheim # add your Github handle
